@@ -8,7 +8,13 @@ These are some direct links to my profile on different platforms.
 
 I am currently working on Physics-Informed Neural Networks for blood-flown simulations in the pulmonary artery and tissue engineering.
 
-### 💻 Programming languages and tools:
+
+# 📝 List of publications
+
+[Here](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en), you can find a list of my publications.
+
+
+# 💻 Programming languages and tools:
 
 ## Languages:
 
@@ -35,7 +41,7 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📫 How to reach me
+# 📫 How to reach me
 
 You can send me an email 📧 at any of these addresses:
 
