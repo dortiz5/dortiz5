@@ -13,16 +13,18 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 
 [Here](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en), you can find a list of my publications.
 
+# 📫 How to reach me
+
+You can send me an email 📧 at any of these addresses:
+
+| [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | [dpuerta1@eafit.edu.co](mailto:dpuerta1@eafit.edu.co)
 
 # 💻 Programming languages and tools:
 
-## Languages:
+## Languages and IDEs:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-## IDEs
-
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -41,8 +43,4 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# 📫 How to reach me
 
-You can send me an email 📧 at any of these addresses:
-
-| [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | [dpuerta1@eafit.edu.co](mailto:dpuerta1@eafit.edu.co)
