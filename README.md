@@ -9,7 +9,8 @@ These are some direct links to my profile on different platforms.
 I am currently working on Physics-Informed Neural Networks for blood-flown simulations in the pulmonary artery and tissue engineering.
 
 
-## My last publications 📝:
+## Papers 📝:
+In the following, you can find a list of my last (and main) papers
 
  - <a href="https://doi.org/10.3390/polym16040472"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization (2024)
  - <a href="https://doi.org/10.3389/fbioe.2023.1271760"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffbioe.2023.1271760-black" align="right"/></a> Morphometric analysis of airways in pre-COPD and mild COPD lungs using continuous surface representations of the bronchial lumen (2023)
