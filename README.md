@@ -13,7 +13,7 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 
  - <a href="https://doi.org/10.3390/polym16040472"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization (2024)
  - <a href="https://doi.org/10.3389/fbioe.2023.1271760"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffbioe.2023.1271760-black" align="right"/></a> Morphometric analysis of airways in pre-COPD and mild COPD lungs using continuous surface representations of the bronchial lumen (2023)
- - <a href="https://doi.org/10.1007/s00366-022-01738-y"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs00366-022-01738-y-black" align="right"/></a> Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels (2022)
+ - <a href="https://doi.org/10.1007/s00366-022-01738-y"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs00366--022--01738--y-black" align="right"/></a> Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels (2022)
  - <a href="https://doi.org/10.1016/j.cma.2022.114841"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.cma.2022.114841-black" align="right"/></a> Snakes Isogeometric Analysis (SIGA): Towards accurate and flexible geometrical models of the respiratory airways (2022)
 
 ## How to reach me 📫:
