@@ -1,4 +1,4 @@
-### Hi there 👋, I'm David Ortiz-Puerta
+# Hi there 👋, I'm David Ortiz-Puerta
 
 Welcome to my personal GitHub profile!
 
@@ -9,17 +9,17 @@ These are some direct links to my profile on different platforms.
 I am currently working on Physics-Informed Neural Networks for blood-flown simulations in the pulmonary artery and tissue engineering.
 
 
-# 📝 List of publications
+## My last publications 📝:
 
-[Here](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en), you can find a list of my publications.
+ - <a href="https://doi.org/10.1016/j.cma.2022.114841"><img src="https://img.shields.io/badge/doi.org/10.1016/j.cma.2022.114841" align="right"/></a>
 
-# 📫 How to reach me
+## How to reach me 📫:
 
 You can send me an email 📧 at any of these addresses:
 
-| [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | [dpuerta1@eafit.edu.co](mailto:dpuerta1@eafit.edu.co)
+| Main e-mail: [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | [dpuerta1@eafit.edu.co](mailto:dpuerta1@eafit.edu.co)
 
-# Some of the tools I work with 💻:
+## Some of the tools I work with 💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
