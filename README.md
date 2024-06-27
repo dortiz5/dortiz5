@@ -11,7 +11,7 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 
 ## My last publications 📝:
 
- - <a href="https://doi.org/10.1016/j.cma.2022.114841"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.cma.2022.114841" align="right"/></a> Snakes Isogeometric Analysis (SIGA): Towards accurate and flexible geometrical models of the respiratory airways (2022)
+ - <a href="https://doi.org/10.1016/j.cma.2022.114841"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.cma.2022.114841-black" align="right"/></a> Snakes Isogeometric Analysis (SIGA): Towards accurate and flexible geometrical models of the respiratory airways (2022)
 
 ## How to reach me 📫:
 
