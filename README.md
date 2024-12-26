@@ -21,7 +21,7 @@ In the following, you can find a list of my last (and main) papers
 
 You can send me an email 📧 at any of these addresses:
 
-| Main e-mail: [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | [dpuerta1@eafit.edu.co](mailto:dpuerta1@eafit.edu.co)
+| Main e-mail: [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [david.ortiz@uv.cl](mailto:david.ortiz@uv.cl) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | 
 
 ## Some of the tools I work with 💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
