@@ -4,7 +4,7 @@ Welcome to my personal GitHub profile!
 
 Here are direct links to my profile on various platforms.
 
-[[![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ortiz-9a57aa1b5/)    [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)
+[![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ortiz-9a57aa1b5/)    [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)
 
 I am currently working on Physics-Informed Neural Networks for blood-flow simulations in the pulmonary artery and tissue engineering.
 
