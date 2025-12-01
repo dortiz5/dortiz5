@@ -2,17 +2,17 @@
 
 Welcome to my personal GitHub profile!
 
-These are some direct links to my profile on different platforms.
+Here are direct links to my profile on various platforms.
 
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/David-Ortiz-Puerta)          [![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ortiz-9a57aa1b5/)    [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)
+[[![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ortiz-9a57aa1b5/)    [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)
 
-I am currently working on Physics-Informed Neural Networks for blood-flown simulations in the pulmonary artery and tissue engineering.
+I am currently working on Physics-Informed Neural Networks for blood-flow simulations in the pulmonary artery and tissue engineering.
 
 
 ## Papers 📝:
 In the following, you can find a list of my last (and main) papers
 
- - <a href="[https://doi.org/10.3390/polym16040472](https://doi.org/10.3390/biomedicines13092058)"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Physics-Informed Neural Network for Modeling the Pulmonary Artery Blood Pressure from Magnetic Resonance Images: A Reduced-Order Navier–Stokes Model (2025)
+ - <a href="https://doi.org/10.3390/biomedicines13092058"><img src="https://img.shields.io/badge/DOI-0.3390/biomedicines13092058-black" align="right"/></a> Physics-Informed Neural Network for Modeling the Pulmonary Artery Blood Pressure from Magnetic Resonance Images: A Reduced-Order Navier–Stokes Model (2025)
  - <a href="https://doi.org/10.3390/polym16040472"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization (2024)
  - <a href="https://doi.org/10.3389/fbioe.2023.1271760"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffbioe.2023.1271760-black" align="right"/></a> Morphometric analysis of airways in pre-COPD and mild COPD lungs using continuous surface representations of the bronchial lumen (2023)
  - <a href="https://doi.org/10.1007/s00366-022-01738-y"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs00366--022--01738--y-black" align="right"/></a> Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels (2022)
