@@ -12,6 +12,7 @@ I am currently working on Physics-Informed Neural Networks for blood-flown simul
 ## Papers 📝:
 In the following, you can find a list of my last (and main) papers
 
+ - <a href="[https://doi.org/10.3390/polym16040472](https://doi.org/10.3390/biomedicines13092058)"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Physics-Informed Neural Network for Modeling the Pulmonary Artery Blood Pressure from Magnetic Resonance Images: A Reduced-Order Navier–Stokes Model (2025)
  - <a href="https://doi.org/10.3390/polym16040472"><img src="https://img.shields.io/badge/DOI-0.3390/polym16040472-black" align="right"/></a> Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization (2024)
  - <a href="https://doi.org/10.3389/fbioe.2023.1271760"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffbioe.2023.1271760-black" align="right"/></a> Morphometric analysis of airways in pre-COPD and mild COPD lungs using continuous surface representations of the bronchial lumen (2023)
  - <a href="https://doi.org/10.1007/s00366-022-01738-y"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs00366--022--01738--y-black" align="right"/></a> Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels (2022)
@@ -23,6 +24,7 @@ You can send me an email 📧 at any of these addresses:
 
 | Main e-mail: [david.ortiz.puerta@gmail.com](mailto:david.ortiz.puerta@gmail.com) | [david.ortiz@uv.cl](mailto:david.ortiz@uv.cl) | [dortiz5@uc.cl](mailto:dortiz5@uc.cl) | 
 
+<!-- 
 ## Some of the tools I work with 💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -37,6 +39,8 @@ You can send me an email 📧 at any of these addresses:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io-badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-->
+
 
 
